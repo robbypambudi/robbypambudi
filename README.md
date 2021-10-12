@@ -7,5 +7,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/robbypambudi/]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/robbypambudi/]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi)](https://github.com/robbypambudi/robbypambudi)
+
 <br />
 
