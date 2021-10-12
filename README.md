@@ -4,7 +4,8 @@
 ### Connect with me:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/robbypambudi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi&layout=compact)](https://github.com/robbypambudi/github-readme-stats)
+
 
 ![Robby Pambudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbypambudi&show_icons=true&theme=tokyonight)
 
