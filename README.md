@@ -3,11 +3,8 @@
 ## I'm a Student, Web Developer,  !!
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/robbypambudii]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/robbypambudi/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/robbypambudi/]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi)](https://github.com/robbypambudi/robbypambudi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/robbypambudi)
 
 <br />
 
