@@ -10,7 +10,8 @@
 <a href="https://dev.to/robbypambudi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
  
 
-## I'm a Student, Programmer and Web Developer !!
+### About Me 
+   I am a student at Institut Teknologi Sepuluh Nopember Surabaya Indonesia, i am like 
 ### Languages, Tools, and Skills 🛠
    <div align="center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
