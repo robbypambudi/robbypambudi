@@ -38,7 +38,7 @@
 ___
 
 <div align='center'>
-![](https://komarev.com/ghpvc/?username=robbypambudi&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </div>
 
 
