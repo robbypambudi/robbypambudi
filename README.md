@@ -37,8 +37,6 @@
 
 ___
 
-<div align='center'>
 ![](https://komarev.com/ghpvc/?username=robbypambudi&color=green)
-</div>
 
 
