@@ -8,8 +8,7 @@
    <a href="https://www.linkedin.com/in/robbypambudi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/robbypambudii"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/robbypambudi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- 
-<br><br>
+<br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
    
@@ -19,7 +18,6 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
  
    
-### Languages, Tools, and Skills 🛠
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages, Tools, and Skills 🛠***
 
    <div align="center">
@@ -36,8 +34,8 @@
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />                                                                                                             
    </div>
 
-### GitHub Stats 📈
-   
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats 📈***
+
 <p align="center">
 <a href="https://github.com/jeffreyc86">
  <img src="https://github-readme-stats.vercel.app/api?username=robbypambudi&show_icons=true&hide=stars&hide_border=true" alt="Robby Pambudi's GitHub Stats" />
