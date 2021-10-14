@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/robbyulungpambudi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  
 
-## I'm a Student, Web Developer,  !!
+## I'm a Student and Web Developer  !!
 ### Connect with me:
 
 
