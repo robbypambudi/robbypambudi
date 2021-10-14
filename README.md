@@ -10,10 +10,6 @@
    <a href="https://dev.to/robbypambudi" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev To"></a>
    <a href="https://www.facebook.com/robbyulungpambudi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Dev To"></a>
 
-
-
-   <a href="https://twitter.com/robbypambudii"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/robbypambudi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 </p> <p>
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
