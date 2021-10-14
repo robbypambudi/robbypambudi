@@ -5,8 +5,14 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/robbypambudi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/robbypambudii"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/robbypambudi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://www.instagram.com/robbypambudi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+   <a href="https://dev.to/robbypambudi" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev To"></a>
+   <a href="https://www.facebook.com/robbyulungpambudi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Dev To"></a>
+
+
+
+   <a href="https://twitter.com/robbypambudii"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/robbypambudi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 </p> <p>
 <br>
@@ -46,6 +52,7 @@
 
 ___
 
-![](https://komarev.com/ghpvc/?username=robbypambudi&color=green)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=robbypambudi&color=green" alt="Views on Github" />
 
 
