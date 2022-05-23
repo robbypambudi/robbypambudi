@@ -41,9 +41,14 @@
 </a>
 </p>
 
-___
+
+<br>
+<br>
+[![RobbyPambudi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=robbypambudi&theme=tokyonight)](https://git.io/praveenscience)
+<br>
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=robbypambudi&color=green" alt="Views on Github" />
-
+</div>
 
