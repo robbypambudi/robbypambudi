@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Robby Pambudi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Robby Pambudi </h1>
 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
@@ -12,12 +12,13 @@
 
 </p> <p>
 <br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me 
+   
+***About Me***
    
 - I’m currently working on web Development
  
    
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages, Tools, and Skills 🛠***
+***Languages, Tools, and Skills 🛠***
 
    <div align="center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -40,7 +41,7 @@
       
    </div><br>
    
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats 📈***
+***GitHub Stats 📈***
 
 <p align="center">
 <a href="https://github.com/robbypambudi">
