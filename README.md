@@ -49,8 +49,9 @@
 </a>
 </p>
 
-
-
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=robbypambudi&color=green" alt="Views on Github" />
