@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -65,7 +65,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 18:53:19 UTC
+ Last Updated on 10/09/2022 10:04:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
