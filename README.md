@@ -41,14 +41,6 @@
       
    </div><br>
    
-***GitHub Stats 📈***
-
-<p align="center">
-<a href="https://github.com/robbypambudi">
- <img src="https://github-readme-stats.vercel.app/api?username=robbypambudi&show_icons=true&hide=stars&hide_border=true" alt="Robby Pambudi's GitHub Stats" />
-</a>
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
