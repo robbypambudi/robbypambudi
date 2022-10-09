@@ -16,6 +16,7 @@
 ***About Me***
    
 - I’m currently working on web Development
+- Interested in automation between operations and development teams
  
    
 ***Languages, Tools, and Skills 🛠***
