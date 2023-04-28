@@ -15,8 +15,9 @@
    
 ***About Me***
    
-- I’m currently working on web Development
-- Interested in automation between operations and development teams
+- I'm currently working on web development especially in front end developer.
+- Currently honing my web development skills by learning Golang as a basic backend.
+- Interested in automation between operations and development teams.
  
    
 ***Languages, Tools, and Skills 🛠***
