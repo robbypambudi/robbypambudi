@@ -50,9 +50,9 @@
 ```text
 Monday                   1295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 Tuesday                  1260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Wednesday                1533 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 1813 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Friday                   928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Wednesday                1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 1813 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Friday                   931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 Saturday                 1713 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 Sunday                   1181 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
@@ -74,17 +74,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               42 repos            ████████░░░░░░░░░░░░░░░░░   32.06 % 
-JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               43 repos            ████████░░░░░░░░░░░░░░░░░   32.58 % 
+JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 02/11/2023 23:54:58 UTC
+ Last Updated on 03/11/2023 23:55:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
