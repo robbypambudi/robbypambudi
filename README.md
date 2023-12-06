@@ -43,8 +43,6 @@
    </div><br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2035%20mins-blue)
-
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -84,7 +82,7 @@ C#                       7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 23:57:01 UTC
+ Last Updated on 06/12/2023 23:55:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
