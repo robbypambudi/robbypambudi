@@ -43,8 +43,6 @@
    </div><br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
-
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -84,7 +82,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 23:56:44 UTC
+ Last Updated on 15/06/2024 23:56:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
