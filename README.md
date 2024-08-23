@@ -49,12 +49,12 @@
 
 ```text
 Monday                   1477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Tuesday                  1633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Tuesday                  1633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 Wednesday                1740 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 Thursday                 2129 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Friday                   1451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Saturday                 1790 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Sunday                   1489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   1455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Saturday                 1790 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Sunday                   1489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 
@@ -74,17 +74,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               53 repos            ████████░░░░░░░░░░░░░░░░░   30.64 % 
-PHP                      28 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               53 repos            ████████░░░░░░░░░░░░░░░░░   30.46 % 
+PHP                      28 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 
 
 
- Last Updated on 22/08/2024 23:57:03 UTC
+ Last Updated on 23/08/2024 23:56:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
