@@ -43,6 +43,8 @@
    </div><br>
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -82,7 +84,7 @@ Jupyter Notebook         7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 23:57:34 UTC
+ Last Updated on 04/11/2024 23:57:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
