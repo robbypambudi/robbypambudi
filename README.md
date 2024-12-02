@@ -43,6 +43,8 @@
    </div><br>
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -82,7 +84,7 @@ Go                       9 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 23:57:41 UTC
+ Last Updated on 02/12/2024 23:57:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
