@@ -76,15 +76,15 @@ No Activity Tracked This Week
 ```text
 TypeScript               62 repos            ███████░░░░░░░░░░░░░░░░░░   29.95 % 
 PHP                      33 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Python                   21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Go                       10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Jupyter Notebook         9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 28/04/2025 00:08:13 UTC
+ Last Updated on 29/04/2025 00:10:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
