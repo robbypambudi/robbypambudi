@@ -50,8 +50,8 @@
 ```text
 Monday                   1619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 Tuesday                  1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Wednesday                1897 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 2333 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Wednesday                1896 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Thursday                 2334 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 Friday                   1594 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 Saturday                 1920 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 Sunday                   1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
@@ -74,17 +74,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-PHP                      34 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Jupyter Notebook         10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               62 repos            ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+PHP                      34 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Jupyter Notebook         9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 ```
 
 
 
 
- Last Updated on 15/05/2025 00:11:59 UTC
+ Last Updated on 16/05/2025 00:09:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
