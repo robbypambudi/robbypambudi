@@ -74,17 +74,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               63 repos            ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-PHP                      34 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-JavaScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Jupyter Notebook         10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+TypeScript               63 repos            ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+PHP                      34 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JavaScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Jupyter Notebook         11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 
 
 
 
- Last Updated on 03/06/2025 00:08:54 UTC
+ Last Updated on 04/06/2025 00:09:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
