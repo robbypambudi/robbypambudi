@@ -43,34 +43,6 @@
    </div><br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2872 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Tuesday                  2054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Thursday                 2802 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Friday                   2281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 2264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Sunday                   2109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,7 +56,7 @@ DIGITAL Command Language 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 00:18:25 UTC
+ Last Updated on 20/09/2025 00:21:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
