@@ -56,8 +56,8 @@
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=robbypambudi&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbypambudi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
   <br />
   <img height="160" src="https://streak-stats.demolab.com/?user=robbypambudi&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
