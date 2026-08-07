@@ -57,7 +57,7 @@
 
 <div align="center">
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=robbypambudi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robbypambudi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robbypambudi&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,php,css,jupyter%20notebook" alt="Top languages" />
   <br />
   <img height="160" src="https://streak-stats.demolab.com/?user=robbypambudi&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
